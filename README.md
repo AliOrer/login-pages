@@ -1,10 +1,10 @@
 #login_pages
 
-Bu depo, HTML, CSS ve JavaScript kullanarak geliştirdiğim basit login sayfası örneklerini içermektedir. Login formunun temel işleyişini öğrenmek ve kendi projelerinizde kullanmak isteyenler için hazırlanmıştır.
+Bu repo, HTML, CSS ve JavaScript kullanarak geliştirilmiş basit login sayfası örneklerini içermektedir. Kendimi geliştirmek için remix ettiğim login pagelerdir. Login formunun temel işleyişini öğrenmek ve kendi projelerinizde kullanmak isteyenler için hazırlanmıştır.
 
-İçerik
---Farklı tasarımlarda basit login formları
+İçerik :
 
---Temel form doğrulama (client-side validation)
-
---Responsive tasarım örnekleri
+--Farklı tasarımlarda basit login formları,
+--Temel yapılar,
+--Responsive tasarım örnekleri,
+ ve dahası.
